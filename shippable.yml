@@ -4,3 +4,4 @@ python:
 install: true
 script:
  - echo "<script>alert('hello');</script>"
+ - cat test.html
